@@ -16,7 +16,6 @@ _grunt
 project-a
 project-b
 project-c
-
 ```
 
 _grunt 中包含了通用的 Grunt 配置，是所有项目共同依赖的。
@@ -50,7 +49,6 @@ slice 放置需要进行雪碧图压缩的图标，例如 sprite.png 和 sprite@
    height: 100px;
    background-image: url(../slice/mod-icon/sprite.png); /*必须使用 background-image将会被识别*/
 }
-
 ```
 
 
