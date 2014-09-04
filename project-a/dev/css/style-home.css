@@ -1,0 +1,13 @@
+.mod-home {
+  width: 800px;
+  margin: 0 auto;
+  min-height: 800px;
+}
+.mod-home__content {
+  padding: 10px;
+}
+.mod-home__avatar {
+  height: 80px;
+  width: 80px;
+  background: url(../img/avatar.png);
+}
