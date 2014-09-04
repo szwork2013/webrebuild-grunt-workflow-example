@@ -21,7 +21,7 @@ project-c
 
 _grunt 中包含了通用的 Grunt 配置，是所有项目共同依赖的。
 
-** 项目的子目录 **
+**项目的子目录**
 
 ```
 dist
@@ -31,7 +31,7 @@ src
 
 编写的 html/css，以及使用的的图片资源都在 src 目录下，通过 grunt 命令向 dev 和 dist 分发。
 
-** 项目 src 目录**
+**项目 src 目录**
 
 ```
 css
