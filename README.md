@@ -47,7 +47,7 @@ slice 放置需要进行雪碧图压缩的图标，例如 sprite.png 和 sprite@
 .mod-icon__sprite {
    width: 100px;
    height: 100px;
-   background-image: url(../slice/mod-icon/sprite.png); /*必须使用 background-image将会被识别*/
+   background-image: url(../slice/mod-icon/sprite.png); /*必须使用 background-image 才会被识别*/
 }
 ```
 
